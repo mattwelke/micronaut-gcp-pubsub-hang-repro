@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: pubsubReadApp
+  executors:
+    scheduled:
+      type: scheduled
+      core-pool-size: 13
